@@ -3,6 +3,10 @@ body {
    font-weight: 300;
 }
 
+#carousel-main{
+  max-height: 60%;
+}
+
 #barra-de-navegacion{
   background-color: #FFFFFF; 
   border-left: none; 
